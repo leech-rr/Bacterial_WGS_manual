@@ -4,11 +4,14 @@
 ### PulseNet (CDC) 
 https://www.aphl.org/programs/food_safety/Pages/PulseNet-International-SOPs.aspx
 
-CDC PulseNetのSOP.
+CDC PulseNetのSOP。DNA抽出からデータクオリティチェックまで。
 
 ### 結核研究所 結核菌ゲノム解読の標準作業手順書(2023年7月)
 https://jata.or.jp/data.php
 
+
+<br>
+<br>
 
 ## Galaxy
 
