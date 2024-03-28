@@ -66,6 +66,16 @@ https://popart.maths.otago.ac.nz/
 
 Minimum Spanning Network解析等が可能です。必要なNexusファイルは、MEGA等で作製することが可能です。
 
+#### GView Server
+https://server.gview.ca/
+
+全遺伝子を対象としたBLAST(BLAST atlas)等が可能です。
+
+#### Phandango
+http://jameshadfield.github.io/phandango/#/
+
+系統樹に菌株情報（メタデータ）をつけて表示することが可能です。
+
 <br>
 
 ## 薬剤耐性遺伝子検索
