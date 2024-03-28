@@ -17,6 +17,8 @@ https://jata.or.jp/data.php
 ### Galaxy
 https://usegalaxy.org/
 
+多種多様なゲノム解析が可能です。
+
 アセンブリには、SPAdesがよく使われます。一般的なペアエンドデータの場合、「Paired-end: individual datasets」を選択します）
 
 
@@ -89,16 +91,23 @@ https://cge.food.dtu.dk/services/VirulenceFinder/
 <br>
 
 ## データベース
-#### EnteroBase
+### EnteroBase
 https://enterobase.warwick.ac.uk/
 
 Salmonella, Escherichia, Mycobacterium, Stapylococcus, Clostridioides, Vibrio, Yersinia, Helicobacter, Moraxellaのデータベース。
-解析も可能。
+解析も可能です。
+
+### PubMLST
+https://pubmlst.org/
+
+ドラフトゲノムをアップロードすることで、さまざまな菌種のMLSが可能です（菌種によってはMLST以外の遺伝子型別が可能）。
+
 
 <br>
 
-## アセンブルガイド
+## 解析関係の情報サイト
 ### Guide to bacterial genome assembly
 
 https://github.com/rrwick/Trycycler/wiki/Guide-to-bacterial-genome-assembly
 
+細菌ゲノムのアセンブリ法について、推奨の方法を解説しています。
