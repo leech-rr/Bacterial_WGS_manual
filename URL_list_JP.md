@@ -84,7 +84,7 @@ http://genepi.food.dtu.dk/resfinder
 #### 血清型別（SerotypeFinder）
 https://cge.food.dtu.dk/services/SerotypeFinder/
 
-血清型別。
+大腸菌の血清型別。OX等の一部の新規血清型には対応していません。
 
 #### 病原性遺伝子検出 (VirulenceFinder 2.0)
 https://cge.food.dtu.dk/services/VirulenceFinder/
