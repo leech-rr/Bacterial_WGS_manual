@@ -44,6 +44,20 @@ http://iqtree.cibiv.univie.ac.at/
 
 <br>
 
+## アノテーション（塩基配列への遺伝子情報の付与）
+#### DFAST
+https://dfast.ddbj.nig.ac.jp/
+
+DDBJが運営しています。プログラムのダウンロードも、ウェブサーバーでの解析も可能。
+
+#### Bakta
+https://bakta.computational.bio/
+
+ProkkaやDFASTより新しいアノテーションプログラム。プログラムのダウンロードも、ウェブサーバーでの解析も可能。
+
+<br>
+
+
 ## 解析結果の可視化ソフト
 #### MEGA
 https://www.megasoftware.net/
@@ -66,6 +80,11 @@ https://popart.maths.otago.ac.nz/
 
 Minimum Spanning Network解析等が可能です。必要なNexusファイルは、MEGA等で作製することが可能です。
 
+#### GrapeTree
+https://github.com/achtman-lab/GrapeTree
+
+オンラインでminimum spanning treeの作製ができます。
+
 #### GView Server
 https://server.gview.ca/
 
@@ -75,6 +94,7 @@ https://server.gview.ca/
 http://jameshadfield.github.io/phandango/#/
 
 系統樹に菌株情報（メタデータ）をつけて表示することが可能です。
+
 
 <br>
 
@@ -110,6 +130,10 @@ https://enterobase.warwick.ac.uk/
 Salmonella, Escherichia, Mycobacterium, Stapylococcus, Clostridioides, Vibrio, Yersinia, Helicobacter, Moraxellaのデータベース。
 解析も可能です。
 
+### NCBIで用いられているリファレンスゲノム
+https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/refseq_category:reference
+
+
 ### PubMLST
 https://pubmlst.org/
 
@@ -124,3 +148,10 @@ https://pubmlst.org/
 https://github.com/rrwick/Trycycler/wiki/Guide-to-bacterial-genome-assembly
 
 細菌ゲノムのアセンブリ法について、推奨の方法を解説しています。
+
+
+### macでインフォマティクス
+https://kazumaxneo.hatenablog.com/
+
+各種解析ソフトの概要や、インストール、実行例が多数掲載されています。
+
