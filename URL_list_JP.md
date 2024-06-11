@@ -96,6 +96,13 @@ http://jameshadfield.github.io/phandango/#/
 系統樹に菌株情報（メタデータ）をつけて表示することが可能です。
 
 
+
+#### awesome-genome-visualization
+https://cmdcolin.github.io/awesome-genome-visualization/
+
+可視化ツール一覧
+
+
 <br>
 
 ## 薬剤耐性遺伝子検索
