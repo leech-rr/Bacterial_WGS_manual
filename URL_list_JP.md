@@ -8,7 +8,7 @@ https://www.aphl.org/programs/food_safety/Pages/PulseNet-International-SOPs.aspx
 
 CDC PulseNetのSOP。DNA抽出からデータクオリティチェックまで。
 
-### 結核研究所 結核菌ゲノム解読の標準作業手順書(2023年7月)
+### 結核研究所 結核菌ゲノム解読の標準作業手順書(2023年7月)  【日本語】
 https://jata.or.jp/data.php
 
 日本語での培養からシークエンスデータを得るまでSOP。対象菌は結核菌ですが、DNA抽出以降の手法は基本的には多くの細菌で共通です。
@@ -166,7 +166,7 @@ https://github.com/rrwick/Trycycler/wiki/Guide-to-bacterial-genome-assembly
 細菌ゲノムのアセンブリ法について、推奨の方法を解説しています。
 
 
-### macでインフォマティクス
+### macでインフォマティクス 【日本語】
 https://kazumaxneo.hatenablog.com/
 
 各種解析ソフトの概要や、インストール、実行例が多数掲載されています。
