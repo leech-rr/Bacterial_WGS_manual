@@ -130,6 +130,15 @@ https://cge.food.dtu.dk/services/VirulenceFinder/
 
 <br>
 
+### 結核菌
+#### TB-Profiler
+https://tbdr.lshtm.ac.uk/
+
+FASTQのアップロードで系統解析や薬剤耐性遺伝子の検索が可能です。
+<br>
+<br>
+
+
 ## データベース
 ### EnteroBase
 https://enterobase.warwick.ac.uk/
