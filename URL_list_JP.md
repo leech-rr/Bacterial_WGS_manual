@@ -158,7 +158,7 @@ https://pubmlst.org/
 
 <br>
 
-## 解析関係の情報サイト
+## <span style="color: tomato">解析関係の情報サイト </span>
 ### Guide to bacterial genome assembly
 
 https://github.com/rrwick/Trycycler/wiki/Guide-to-bacterial-genome-assembly
