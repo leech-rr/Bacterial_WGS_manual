@@ -2,7 +2,7 @@
 
 細菌における全ゲノム解析を行う際に、有用なサイトを紹介します。
 
-## 標準作業手順書（SOP）
+## <span style="color: tomato">標準作業手順書（SOP）</span>
 ### PulseNet (CDC) 
 https://www.aphl.org/programs/food_safety/Pages/PulseNet-International-SOPs.aspx
 
@@ -16,7 +16,7 @@ https://jata.or.jp/data.php
 <br>
 <br>
 
-## 様々な解析が行えるサイト
+## <span style="color: tomato">様々な解析が行えるサイト</span>
 ### Galaxy
 https://usegalaxy.org/
 
@@ -32,7 +32,7 @@ https://usegalaxy.org/
 
 <br>
 
-## 系統樹作製
+## <span style="color: tomato">系統樹作製</span>
 最尤法 (maximum likelihood method)を用いるのが主流です。
 
 <br>
@@ -44,7 +44,7 @@ http://iqtree.cibiv.univie.ac.at/
 
 <br>
 
-## アノテーション（塩基配列への遺伝子情報の付与）
+## <span style="color: tomato">アノテーション（塩基配列への遺伝子情報の付与）</span>
 #### DFAST
 https://dfast.ddbj.nig.ac.jp/
 
@@ -58,7 +58,7 @@ ProkkaやDFASTより新しいアノテーションプログラム。プログラ
 <br>
 
 
-## 解析結果の可視化ソフト
+## <span style="color: tomato">解析結果の可視化ツール</span>
 #### MEGA
 https://www.megasoftware.net/
 
@@ -105,7 +105,7 @@ https://cmdcolin.github.io/awesome-genome-visualization/
 
 <br>
 
-## 薬剤耐性遺伝子検索
+## <span style="color: tomato">薬剤耐性遺伝子検索 </span>
 #### ResFinder
 http://genepi.food.dtu.dk/resfinder
 
@@ -115,7 +115,7 @@ http://genepi.food.dtu.dk/resfinder
 
 ***
 
-## 菌種別解析サイト
+## <span style="color: tomato">菌種別解析サイト </span>
 
 ### 大腸菌
 #### 血清型別（SerotypeFinder）
@@ -139,7 +139,7 @@ FASTQのアップロードで系統解析や薬剤耐性遺伝子の検索が可
 <br>
 
 
-## データベース
+## <span style="color: tomato">データベース </span>
 ### EnteroBase
 https://enterobase.warwick.ac.uk/
 
