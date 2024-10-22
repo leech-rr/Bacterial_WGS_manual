@@ -4,7 +4,7 @@
 
 ## <span style="color: tomato">標準作業手順書（SOP）</span>
 ### PulseNet (CDC) 
-https://www.aphl.org/programs/food_safety/Pages/PulseNet-International-SOPs.aspx
+https://www.aphl.org/programs/global_health/Pages/PulseNet-International-SOPs.aspx
 
 CDC PulseNetのSOP。DNA抽出からデータクオリティチェックまで。
 
