@@ -15,6 +15,7 @@ https://jata.or.jp/data.php
 
 ### 地衛研 ゲノムDNAライブラリ作製マニュアル【日本語】
 https://www.chieiken.gr.jp/manual01/Genome_DNA_Library/index.html
+
 ゲノムDNAを抽出してからMiSeqにかけるまでのプロトコルが記載されています。
 
 <br>
