@@ -13,6 +13,10 @@ https://jata.or.jp/data.php
 
 日本語での培養からシークエンスデータを得るまでSOP。対象菌は結核菌ですが、DNA抽出以降の手法は基本的には多くの細菌で共通です。
 
+### 地衛研 ゲノムDNAライブラリ作製マニュアル【日本語】
+https://www.chieiken.gr.jp/manual01/Genome_DNA_Library/index.html
+ゲノムDNAを抽出してからMiSeqにかけるまでのプロトコルが記載されています。
+
 <br>
 <br>
 
